@@ -14,8 +14,8 @@ Python | C | Java | AI/ML | Data Analytics | Git & GitHub
 
 📊 GITHUB STATS
 ┌──────────────┐ ┌──────────────┐
-│ Repositories │ │ Contributions │
-│      12      │ │     245      │
+│ Repositories │ │ Contributions│
+│      08      │ │     48       │
 └──────────────┘ └──────────────┘
 
 🔥 CONTRIBUTION GRAPH
