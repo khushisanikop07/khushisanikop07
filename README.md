@@ -4,8 +4,6 @@
 
 I'm an AIML student interested in **Artificial Intelligence, Machine Learning, Python, Data Analytics and Web Development**.
 
-I enjoy learning new technologies and building projects that help me improve my programming and problem-solving skills.
-
 ---
 
 ## 👩‍💻 About Me
