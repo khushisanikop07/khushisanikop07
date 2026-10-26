@@ -53,7 +53,6 @@ Git • GitHub • VS Code
 ## 🚀 Projects
 
 * 🌾 **AgriRent** – Agricultural rental machine website
-* 🕵️ **CyberQuest** – Cybersecurity-related project
 * 📰 **Fake News Detection** – Machine-learning-based project
 * 💼 **Portfolio Generator** – Personal portfolio website
 * 🌱 **Soil Suitability** – Website for soil and crop-related information
