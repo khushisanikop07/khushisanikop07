@@ -23,7 +23,7 @@ I'm an AIML student interested in **Artificial Intelligence, Machine Learning, P
 
 | 📁 Repositories | 🔥 Contributions | 👥 Followers | ⭐ Stars |
 | --------------: | ---------------: | -----------: | ------: |
-|           **9** |           **55** |        **2** |   **0** |
+|           **10**|           **64** |        **2** |   **0** |
 
 ### 📈 My GitHub Activity
 
